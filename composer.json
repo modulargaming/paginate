@@ -1,6 +1,6 @@
 {
 	"name": "modulargaming/paginate",
-	"type": "kohanag-module",
+	"type": "kohana-module",
 	"license": "MIT",
 	"description": "Paginate module for Kohana",
 	"keywords": [
