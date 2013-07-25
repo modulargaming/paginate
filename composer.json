@@ -1,5 +1,5 @@
 {
-  "name": "modulargaming/debug-toolbar",
+  "name": "modulargaming/paginate",
 	"type": "kohanag-module",
   "license": "MIT",
 	"description": "Paginate module for Kohana",
